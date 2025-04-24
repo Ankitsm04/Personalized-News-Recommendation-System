@@ -13,8 +13,7 @@ This project implements a **Personalized News Recommendation System** using Deep
 - **Real-Time Updates**: News headlines are updated automatically based on the chosen category.
 
 ## Demo
-
-You can check out a live demo of the app. (Add link if you host it somewhere, e.g., Hugging Face or Streamlit).
+[Demo APP](https://huggingface.co/spaces/Ankitsm04/News_Recommendation_System)
 
 ## Tech Stack
 - **Python**: The core programming language for this project.
