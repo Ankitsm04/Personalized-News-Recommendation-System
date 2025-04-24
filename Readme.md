@@ -2,6 +2,10 @@
 
 This project implements a **Personalized News Recommendation System** using Deep Q Networks (DQN), **News API**, and **Gradio**. The system recommends articles based on user interests and adapts to user feedback. The recommendation model is trained to dynamically update based on the categories users choose, such as Technology, Science, Health, etc.
 
+## Demo Screenshot
+![Demo Screenshot 1](./01.png)
+![Demo Screenshot 2](./02.png)
+
 ## Features
 - **Personalized Recommendations**: Choose from multiple categories (e.g., Technology, Sports, Health).
 - **User Feedback**: Like or Dislike news articles to refine future recommendations.
